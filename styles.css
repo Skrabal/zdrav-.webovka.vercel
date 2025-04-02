@@ -344,5 +344,6 @@ footer p {
 }
 .white{
   background-color: #ffffff;
+  width: 350px;
   border-radius: 20px;
 }
